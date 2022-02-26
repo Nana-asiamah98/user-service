@@ -1,0 +1,12 @@
+{
+    "name": "nana-asiamah/user-service",
+    "require": {
+        "laravel/framework": "^8.83"
+    },
+    "authors": [
+        {
+            "name": "Nana",
+            "email": "judeasiamah@gmail.com"
+        }
+    ]
+}
